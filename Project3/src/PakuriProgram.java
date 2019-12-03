@@ -4,6 +4,7 @@ public class PakuriProgram
 {
     public static void main (String args[])
     {
+        //this is a comment cool
         // starts the pakudex and asks for the capacity of the pakudex
         Scanner scan = new Scanner(System.in);
         String in = "";
